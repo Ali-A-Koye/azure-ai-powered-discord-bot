@@ -32,7 +32,3 @@ DESTINATION_CHANNEL= #channel id you want to log the results
 # development
 $ node server.js
 ```
-
-## License
-
-[MIT](LICENSE)
